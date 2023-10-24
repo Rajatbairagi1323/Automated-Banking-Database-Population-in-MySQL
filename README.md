@@ -1,6 +1,6 @@
 # Automated Banking Database Population in MySQL
 
-This project is a comprehensive Banking Database Management system developed using MySQL, Python, and the Faker library. It allows you to create and manage a vehicle parking database effortlessly.
+This project is a comprehensive Banking Database Management system developed using MySQL, Python, and the Faker library. It allows you to create and manage a banking database effortlessly.
 
 ## Overview
 
